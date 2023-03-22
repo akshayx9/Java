@@ -1,4 +1,5 @@
-class Add {
+package Java_Basics;
+public class Add {
  public static void main(String []args){
     int x=10;
     int y=20;

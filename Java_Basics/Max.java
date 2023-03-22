@@ -1,3 +1,4 @@
+package Java_Basics;
 public class Max {
     public static void main(String[] args) {
         //Program to find max of 3 numbers using if-else ladder

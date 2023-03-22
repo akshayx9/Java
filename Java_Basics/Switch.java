@@ -1,3 +1,4 @@
+package Java_Basics;
 public class Switch {
     public static void main(String[] args) {
         int day=3;

@@ -38,7 +38,7 @@ public class Assignment1 {
             }
             default:{
                 System.out.println("Invalid input");
-            }
+            }s.close();
         }
 
     }

@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.Scanner;
 
-public class Assignment1 {
+public class Assignment4 {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         System.out.println("Select an option:"+"\n"+"1.ADD"+"\n"+"2.MUL"+"\n"+"3.DIV"+"\n"+"4.Exit"+"\n");

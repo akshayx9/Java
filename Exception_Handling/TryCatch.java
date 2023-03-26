@@ -16,9 +16,6 @@ public class TryCatch {
         try {
             String s="abc";
             s.charAt(10);
-        } catch (ArithmeticException | NullPointerException | NumberFormatException e) //we can include diff exceptions this way in one line
-          {
-            System.out.println(e.toString());
         }catch(Exception e) //we can have mutiple catch blocks in a single try-catch & we can also use "Exception e" to include all exceptions 
           {
             System.out.println("Exception-->"+e.toString());

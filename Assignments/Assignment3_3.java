@@ -1,7 +1,7 @@
-package Java_Basics;
-public class Max {
+package Assignments;
+public class Assignment3_3 {
     public static void main(String[] args) {
-        //Program to find max of 3 numbers using if-else ladder
+        //Program to find largest of 3 numbers using if-else ladder
         int x=10;
         int y=20;
         int z=30;
